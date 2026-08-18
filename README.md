@@ -78,10 +78,14 @@ En este taller replicaremos el diseño de un flujo de trabajo típico para descu
 
 ## 5. ¿Qué es Clinker?
 
-**Clinker** es una herramienta bioinformática de última generación diseñada para visualizar de manera interactiva la **sintenia** de clústeres de genes. 
+**Clinker** es una herramienta bioinformática diseñada para visualizar de manera interactiva las **similitudes o diferencias** de clústeres de genes. 
 
 A diferencia de los alineamientos globales de genomas, Clinker se enfoca en regiones específicas (como los BGCs). Lee archivos anotados (GenBank), traduce las secuencias a proteínas, realiza alineamientos locales por parejas y genera un mapa lineal interactivo en formato HTML. Los usuarios pueden arrastrar clústeres, cambiar colores de genes y analizar dinámicamente la arquitectura de los operones directamente en el navegador web sin instalar visores locales.
 
+
+cita:
+clinker & clustermap.js: Automatic generation of gene cluster comparison figures. Gilchrist, C.L.M., Chooi, Y.-H., 2020.
+Bioinformatics. doi: https://doi.org/10.1093/bioinformatics/btab007
 ---
 
 ## 6. Guía de los Scripts de Muestra del Repositorio
