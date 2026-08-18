@@ -1,4 +1,6 @@
 <img width="228" height="147" alt="logo" src="https://github.com/user-attachments/assets/4de329ff-cfa9-422b-97fa-0d595a0f1fec" />
+
+---
 # Taller de Minería Genómica: Automatización y visualización (Sesión C9)
 
 Bienvenido al repositorio oficial de la sesión **C9 - Other Tools**. En este taller práctico aprenderás los conceptos básicos de diseñar, estructurar y ejecutar un pipeline bioinformático automatizado utilizando la terminal de Linux, Python y Bash para procesar BGCs.
@@ -44,8 +46,11 @@ Herramientas avanzadas construidas específicamente para bioinformática, como *
 * **Ventajas:** Ecosistemas robustos, manejan de forma nativa la paralelización (uso de múltiples núcleos del servidor), gestionan entornos virtuales automáticamente y permiten reanudar procesos caídos. Además, suelen poseer herramientas que monitorean el uso de RAM o CPU en cada paso del pipeline.
 * **Desventajas:** Curva de aprendizaje empinada y sintaxis abstracta al inicio.
   
-<img width="614" height="103" alt="{45AE9C8B-E478-412A-92D4-C2E2DE55FFF7}" src="https://github.com/user-attachments/assets/2f02299c-7efd-4ddf-90e0-1f34a5f421fa" />
-<img width="614" height="103" alt="image" src="https://github.com/user-attachments/assets/28918a95-3802-46dc-aa80-d83fd7d73f58" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f02299c-7efd-4ddf-90e0-1f34a5f421fa" width="45%" alt="Snakemake" />
+  &nbsp; &nbsp;
+  <img src="https://github.com/user-attachments/assets/28918a95-3802-46dc-aa80-d83fd7d73f58" width="45%" alt="Nextflow" />
+</p>
 
 ### C. Interfaces Gráficas de Usuario (GUI)
 Plataformas web o de escritorio como **Galaxy**.
