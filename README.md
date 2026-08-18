@@ -1,0 +1,1 @@
+# genome-mining-pipeline-workshop
