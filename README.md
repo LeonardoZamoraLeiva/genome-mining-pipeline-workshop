@@ -42,9 +42,7 @@ Herramientas avanzadas construidas específicamente para bioinformática, como *
 * **Desventajas:** Curva de aprendizaje empinada y sintaxis abstracta al inicio.
   
 <img width="614" height="103" alt="{45AE9C8B-E478-412A-92D4-C2E2DE55FFF7}" src="https://github.com/user-attachments/assets/2f02299c-7efd-4ddf-90e0-1f34a5f421fa" />
-
-<img width="833" height="205" alt="image" src="https://github.com/user-attachments/assets/e12c26f3-708d-4ce5-ae7c-6aea059f5dc2" />
-
+<img width="614" height="103" alt="image" src="https://github.com/user-attachments/assets/28918a95-3802-46dc-aa80-d83fd7d73f58" />
 
 
 
