@@ -8,6 +8,9 @@ Bienvenido al repositorio oficial de la sesión **C9 - Other Tools**. En este ta
 
 Un **pipeline bioinformático** es una serie de programas o herramientas de software orquestadas en un orden específico, donde la salida (*output*) de un paso se convierte automáticamente en la entrada (*input*) del siguiente paso.
 
+<img width="853" height="480" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/ae99e0be-6ab5-49f7-8504-2f272d13b974" />
+
+
 ### ¿Para qué sirve y por qué se utiliza?
 * **Manejo de Big Data:** Analizar un genoma a mano es viable. Analizar 500 genomas requiere automatización masiva.
 * **Reproducibilidad:** Permite que cualquier investigador en el mundo corra exactamente el mismo análisis con los mismos parámetros y obtenga el mismo resultado.
