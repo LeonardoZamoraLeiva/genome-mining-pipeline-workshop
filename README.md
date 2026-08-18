@@ -40,10 +40,11 @@ Consiste en escribir scripts individuales (en Python, R o Perl) para cada tarea 
 Herramientas avanzadas construidas específicamente para bioinformática, como **Snakemake** o **Nextflow**.
 * **Ventajas:** Ultra robustos, manejan de forma nativa la paralelización (uso de múltiples núcleos del servidor), gestionan entornos virtuales automáticamente y permiten reanudar procesos caídos.
 * **Desventajas:** Curva de aprendizaje empinada y sintaxis abstracta al inicio.
-* 
+  
 <img width="614" height="103" alt="{45AE9C8B-E478-412A-92D4-C2E2DE55FFF7}" src="https://github.com/user-attachments/assets/2f02299c-7efd-4ddf-90e0-1f34a5f421fa" />
 
-<img width="127" height="134" alt="{A978A0AD-A06F-4AB0-9C87-27D578600BEF}" src="https://github.com/user-attachments/assets/361cf01d-4924-453a-8e31-e2089ea03665" /> SnakeMake
+<img width="833" height="205" alt="image" src="https://github.com/user-attachments/assets/e12c26f3-708d-4ce5-ae7c-6aea059f5dc2" />
+
 
 
 
